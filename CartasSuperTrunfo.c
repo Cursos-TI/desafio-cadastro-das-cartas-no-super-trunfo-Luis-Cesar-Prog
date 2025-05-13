@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+printf("correção de digitação");
 
 // Declaração das variáveis para a PRIMEIRA carta 
 
@@ -9,7 +10,7 @@ char nome_cidade1[20];
 int populacao1;
 float area1;
 float pib1;
-int pontos_turiticos1;
+int pontos_turisticos1;
 
  // Declaração das variáveis para a SEGUNDA carta
 
@@ -78,7 +79,7 @@ printf("Nome da Cidade: %s\n", nome_cidade1);
 printf("Populacao: %d\n", populacao1);
 printf("Área: %.2f km²\n", area1);
 printf("Pib: %.2f bilhões de reais\n", pib1);
-printf("Pontos turisticos: %d\n", pontos_turiticos1);
+printf("Pontos turisticos: %d\n", pontos_turisticos1);
 
 printf("\n=== Carta 2 ===\n");
 printf("Estado: %c\n", estado2);
